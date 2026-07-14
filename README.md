@@ -19,7 +19,7 @@
   </a>
   
   <!-- DISCORD (Gunakan link server atau link chat direct Anda) -->
-  <a href="https://discord.gg" target="_blank">
+  <a href="https://discord.com/channels/@me/this_alyyb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   
