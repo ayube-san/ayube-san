@@ -1,4 +1,4 @@
-![ayube-san](image.png)
+![ayube-san](./image.png)
 
 #### Skills
 
