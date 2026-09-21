@@ -1,4 +1,4 @@
-![ayube-san](1.png)
+![ayube-san](image.png)
 
 #### I just Know this
 
